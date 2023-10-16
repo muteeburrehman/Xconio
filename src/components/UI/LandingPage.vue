@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 mx-auto text-center">
-                    <h1 class="display-4 text-white">Build Xconio landing page</h1>
+                    <h1 class="display-4 text-white">Build XConnIO landing page</h1>
                     <p class="text-white my-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                         Est, aut. Dolores saepe voluptatibus beatae alias architecto explicabo! 
                         Obcaecati similique dolores quod enim adipisci inventore! Consequatur praesentium 
