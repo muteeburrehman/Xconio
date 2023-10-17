@@ -4,9 +4,9 @@
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md-8 mx-auto text-center">
-                    <h6 class="text-primary">Join</h6>
+                    <h4 class="text-primary">Join</h4>
                     <h1>Get in Touch</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, tenetur porro et eveniet aliquid voluptates, atque, esse enim harum molestiae dolores rerum nisi saepe voluptatum quod maxime commodi cupiditate modi?</p>
+                    <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, tenetur porro et eveniet aliquid voluptates, atque, esse enim harum molestiae dolores rerum nisi saepe voluptatum quod maxime commodi cupiditate modi?</p> -->
                
          
                   </div>

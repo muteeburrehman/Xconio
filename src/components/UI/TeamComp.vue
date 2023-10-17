@@ -3,9 +3,9 @@
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md-8 mx-auto text-center">
-                   <h6 class="text-primary">Team</h6>
+                   <h4 class="text-primary">Team</h4>
                    <h1>Meet Our Crew Members</h1>
-                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, ipsam nostrum! Consequuntur vitae reprehenderit commodi exercitationem quasi reiciendis amet perferendis dolorem laudantium earum, corporis harum, quos nam veritatis corrupti autem!</p>
+                   <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, ipsam nostrum! Consequuntur vitae reprehenderit commodi exercitationem quasi reiciendis amet perferendis dolorem laudantium earum, corporis harum, quos nam veritatis corrupti autem!</p> -->
 
                 </div>
             </div>
@@ -14,24 +14,37 @@
                     <div class="team-member card-effect">
                         <img src="@/assets/images/pic2.jpg" alt="">
                         <h5 class="mb-0 mt-4">Omer Akram</h5>
-                        <p>Foss Developer</p>
+                        <p>Founder/CEO</p>
                         <div class="social-icons">
-                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                            <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
                             <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="team-member card-effect">
-                        <img src="@/assets/images/pic1.jpg" alt="">
+                        <img src="@/assets/images/img5.jpg" alt="">
                         <h5 class="mb-0 mt-4">Asim Farooq</h5>
-                        <p>Python Developer</p>
+                        <p>Core Developer</p>
                         <div class="social-icons">
-                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                            <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
                             <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="team-member card-effect">
+                        <img src="@/assets/images/img7.jpg" alt="">
+                        <h5 class="mb-0 mt-4">Hamza Ismail</h5>
+                        <p>Administrator</p>
+                        <div class="social-icons">
+                            <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <!-- <a href="#"><i class="fa-brands fa-instagram"></i></a> -->
                         </div>
                     </div>
                 </div>

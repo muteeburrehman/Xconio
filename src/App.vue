@@ -21,4 +21,9 @@ export default{
     ContactComp,
   }
 }
+
 </script>
+
+<style>
+
+</style>

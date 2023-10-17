@@ -3,14 +3,14 @@
        <div class="container">
            <div class="row">
                <div class="col-lg-7 mx-auto text-center">
-                   <h1 class="display-4 text-white">Build XConnIO landing page</h1>
-                   <p class="text-white my-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                   <h1 class="display-1 display-md-3 display-lg-2 display-xl-1 text-white" > XConnIO</h1>
+                   <!-- <p class="text-white my-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                        Est, aut. Dolores saepe voluptatibus beatae alias architecto explicabo! 
                        Obcaecati similique dolores quod enim adipisci inventore! Consequatur praesentium 
                        earum necessitatibus quidem ad?
-                   </p>
+                   </p> -->
                    <a href="#" class="btn btn-primary me-2">Get Started</a>
-                   <a href="#" class="btn btn-outline-light">Portfolio</a>
+                   <!-- <a href="#" class="btn btn-outline-light">Portfolio</a> -->
                </div>
            </div>
        </div>
