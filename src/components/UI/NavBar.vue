@@ -8,7 +8,7 @@
         >XConnIO</a
       >
       <button
-        class="navbar-toggler"
+        class="navbar-toggler text-white pt-2"
         type="button"
         data-bs-toggle="collapse"
         data-bs-target="#navbarText"
@@ -16,7 +16,7 @@
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon text-white"><i class="fa-solid fa-bars"></i></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ms-auto">

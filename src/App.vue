@@ -1,18 +1,24 @@
 <template>
   <nav-bar></nav-bar>
   <landing-page></landing-page>
-  <section-comp></section-comp>
+  <team-comp></team-comp>
+  <join-us></join-us>
+  <contact-comp></contact-comp>
 </template>
 
 <script>
 import NavBar from './components/UI/NavBar.vue';
 import LandingPage from './components/UI/LandingPage.vue';
-import SectionComp from './components/UI/SectionComp.vue';
+import TeamComp from './components/UI/TeamComp.vue';
+import JoinUs from './components/UI/JoinUs.vue';
+import ContactComp from './components/UI/ContactComp.vue';
 export default{
   components:{
     NavBar,
     LandingPage,
-    SectionComp
+    TeamComp,
+    JoinUs,
+    ContactComp,
   }
 }
 </script>
