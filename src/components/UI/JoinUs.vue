@@ -1,5 +1,5 @@
 <template>
-    <section id="join">
+    <section id="joinUs">
     <div id="join">
         <div class="container">
             <div class="row mb-5">

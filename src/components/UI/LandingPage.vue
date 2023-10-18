@@ -1,5 +1,5 @@
 <template>
-   <div class="hero vh-100 d-flex align-items-center">
+   <section id="home" class="hero vh-100 d-flex align-items-center">
        <div class="container">
            <div class="row">
                <div class="col-lg-7 mx-auto text-center">
@@ -14,7 +14,7 @@
                </div>
            </div>
        </div>
-   </div>
+      </section>
 </template>
 
 <script>

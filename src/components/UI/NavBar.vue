@@ -21,32 +21,47 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
+            <a class="nav-link active text-white" aria-current="page" href="#home"
               >Home</a
-            > -->
-            <router-link class="nav-link active text-white" to="/home">Home</router-link>
+            >
+            <!-- <router-link class="nav-link active text-white" to="/home">Home</router-link> -->
           </li>
 
           <li class="nav-item">
-            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
+            <a class="nav-link active text-white" aria-current="page" href="#team"
               >Team</a
-            > -->
-            <router-link class="nav-link active text-white" to="/team">Team</router-link>
+            >
+            <!-- <router-link class="nav-link active text-white" to="/team">Team</router-link> -->
           </li>
 
           <li class="nav-item">
-            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
+            <a class="nav-link active text-white" aria-current="page" href="#contact"
               >Contact</a
-            > -->
-            <router-link class="nav-link active text-white" to="/contact">Contact</router-link>
+            >
+            <!-- <router-link class="nav-link active text-white" to="/contact">Contact</router-link> -->
           </li>
         </ul>
-        <button  @click="$router.push('/join')" class="btn btn-primary ms-lg-3">Join Us</button>
+        <button @click="scrollToJoin"  class="btn btn-primary ms-lg-3">Join Us</button>
       </div>
     </div>
   </nav>
 </template>
 
 <script>
-export default {};
+export default {
+  methods: {
+    scrollToJoin() {
+      // Use document.querySelector to select the element with id "join"
+      const joinElement = document.querySelector('#joinUs');
+      
+      if (joinElement) {
+        // Scroll to the "join" element
+        joinElement.scrollIntoView({
+          behavior: 'smooth' // Add smooth scrolling behavior
+        });
+      }
+    }
+  }
+};
+
 </script>
