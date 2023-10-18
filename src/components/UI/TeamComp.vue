@@ -9,7 +9,7 @@
 
                 </div>
             </div>
-            <div class="row text-center" style="justify-content: center;">
+            <div class="row text-center mb-5" style="justify-content: center;">
                 <div class="col-lg-3 col-sm-6">
                     <div class="team-member card-effect">
                         <img src="@/assets/images/pic2.jpg" alt="">

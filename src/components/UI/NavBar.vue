@@ -21,24 +21,27 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link active text-white" aria-current="page" href="#"
+            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
               >Home</a
-            >
+            > -->
+            <router-link class="nav-link active text-white" to="/home">Home</router-link>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link active text-white" aria-current="page" href="#"
+            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
               >Team</a
-            >
+            > -->
+            <router-link class="nav-link active text-white" to="/team">Team</router-link>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link active text-white" aria-current="page" href="#"
+            <!-- <a class="nav-link active text-white" aria-current="page" href="#"
               >Contact</a
-            >
+            > -->
+            <router-link class="nav-link active text-white" to="/contact">Contact</router-link>
           </li>
         </ul>
-        <button class="btn btn-primary ms-lg-3">Join Us</button>
+        <button  @click="$router.push('/join')" class="btn btn-primary ms-lg-3">Join Us</button>
       </div>
     </div>
   </nav>
