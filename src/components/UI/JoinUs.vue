@@ -71,5 +71,7 @@ form .form-control {
     border-radius:0 ;
     background-color: rgba(0,0,0,0.02);
 }
-
+.join-us-section {
+  margin-top: -80px; /* Adjust the value as needed to ensure the content is fully visible */
+}
 </style>
